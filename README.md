@@ -1,9 +1,6 @@
-![TRAA Logo](images/traa_logo-MASTER.png)
-Format: ![Alt Text](url)
+# Homework 3
 
-# This is an In-Class Example of What Trevor Wants README Files to Look Like
-
-This is where you put a small description of what the project is.
+Using the in-class build files for the Drag n' Drop example, find and fix the bugs that we discovered in class.
 
 ## Description
 
@@ -13,8 +10,8 @@ Explain brand history and a description of the project, very similar to above
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10, CSS3, HTML5
+* CSS3 
+* HTML5
 * Be sure to prefix any bleeding-edge rules, tags, etc. (see [caniuse](https://caniuse.com/) for reference)
 * Also using lastest ES6/next, you should probably think about including [Babel](https://babeljs.io/) for transpilation (or an NPM Script)
 
@@ -28,6 +25,7 @@ Contributors names and contact info
 
 * Alec Riddick
 	* [Website](http://www.chroniclesofriddickdesign.com/)
+* Trevor Van Rys
 
 ## License
 
